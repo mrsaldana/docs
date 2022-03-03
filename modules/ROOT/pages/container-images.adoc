@@ -1,0 +1,16 @@
+// Copyright (c) 2022 IBM Corporation and others.
+// Licensed under Creative Commons Attribution-NoDerivatives
+// 4.0 International (CC BY-ND 4.0)
+//   https://creativecommons.org/licenses/by-nd/4.0/
+//
+// Contributors:
+//     IBM Corporation
+//
+:page-description:
+:seo-title:
+:seo-description:
+:page-layout:
+:page-type:
+= Open Liberty container images
+
+You can obtain Open Liberty container images from the IBM Container Registry. Various container images are available, depending on your preference of Java level, Open Liberty release version, Java virtual machine (JVM), and image size.
